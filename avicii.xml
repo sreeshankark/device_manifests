@@ -25,4 +25,8 @@
     
     <!-- Dolby Atmos -->
     <project path="hardware/dolby" name="android_hardware_dolby" remote="gh" revision="sony-1.2" clone-depth="1" />
+
+    <!-- Replacements for test -->
+    <remove-project name="android_packages_apps_AxWallpaperEffects" />
+    <project path="packages/apps/AxWallpaperEffects" name="android_packages_apps_AxWallpaperEffects" remote="gh" revision="lineage-23.2" clone-depth="1" />
 </manifest>
