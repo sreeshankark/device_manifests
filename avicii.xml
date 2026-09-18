@@ -22,6 +22,7 @@
     
     <!-- OEM Camera -->
     <project path="vendor/oneplus/camera" name="android_vendor_oneplus_camera" remote="cb" revision="16" clone-depth="1" />
+    <project path="hardware/dolby" name="android_hardware_dolby" remote="gh" revision="sony-A17" clone-depth="1" />
 
     <!-- Replacements for test -->
     <remove-project name="android_device_axion_common" />
