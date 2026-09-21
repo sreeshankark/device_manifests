@@ -15,7 +15,7 @@
     <project path="kernel/oneplus/avicii" name="android_kernel_oneplus_avicii" remote="gh" revision="16" clone-depth="1" />
     
     <!-- Vendor -->
-    <project path="vendor/oneplus/avicii" name="android_vendor_oneplus_avicii" remote="gh" revision="test" clone-depth="1" />
+    <project path="vendor/oneplus/avicii" name="android_vendor_oneplus_avicii" remote="ax" revision="test" clone-depth="1" />
     
     <!-- Firmware -->
     <project path="vendor/oneplus/firmware" name="android_vendor_oneplus_firmware" remote="cb" revision="16" clone-depth="1" />
