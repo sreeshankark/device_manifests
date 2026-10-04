@@ -28,7 +28,7 @@
     <!-- Dolby Atmos + Dolby Vision -->
     <project path="hardware/dolby" name="android_hardware_dolby" remote="ghp" revision="Dolby-Vision-2.1" clone-depth="1" />
 
-    <!-- Replacements for test -->
+    <!-- Replacements for test 
     <remove-project name="android_device_axion_common" />
-    <project path="device/axion/common" name="android_device_axion_common" remote="ghp" revision="lineage-23.2" clone-depth="1" />
+    <project path="device/axion/common" name="android_device_axion_common" remote="ghp" revision="lineage-23.2" clone-depth="1" /> -->
 </manifest>
