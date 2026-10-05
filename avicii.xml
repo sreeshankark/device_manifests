@@ -29,6 +29,6 @@
     <project path="hardware/dolby" name="android_hardware_dolby" remote="ghp" revision="Dolby-Vision-2.1" clone-depth="1" />
 
     <!-- Replacements for test --> 
-    <remove-project name="android_framework_base" />
-    <project path="framework/base" name="android_framework_base" remote="ghp" revision="lineage-23.2" clone-depth="1" />
+    <remove-project name="android_frameworks_base" />
+    <project path="frameworks/base" name="android_frameworks_base" remote="ghp" revision="lineage-23.2" clone-depth="1" />
 </manifest>
